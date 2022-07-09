@@ -1,3 +1,5 @@
 Template engines (handlebars)
 
 SASS: npm install node-sass
+
+Gắn CSDL: npm install mongoose
